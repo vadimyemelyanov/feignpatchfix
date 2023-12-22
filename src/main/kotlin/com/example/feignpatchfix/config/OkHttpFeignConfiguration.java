@@ -1,7 +1,6 @@
-package com.example.feignputfix.config;
+package com.example.feignpatchfix.config;
 
 import feign.Client;
-import jakarta.annotation.PreDestroy;
 import okhttp3.ConnectionPool;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.cloud.openfeign.support.FeignHttpClientProperties;

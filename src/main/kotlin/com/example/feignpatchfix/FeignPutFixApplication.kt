@@ -1,6 +1,6 @@
-package com.example.feignputfix
+package com.example.feignpatchfix
 
-import com.example.feignputfix.api.TestApi
+import com.example.feignpatchfix.api.TestApi
 import org.springframework.boot.CommandLineRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

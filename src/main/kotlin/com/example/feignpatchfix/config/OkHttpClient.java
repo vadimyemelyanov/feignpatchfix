@@ -1,4 +1,4 @@
-package com.example.feignputfix.config;
+package com.example.feignpatchfix.config;
 
 import feign.AsyncClient;
 import feign.Client;
